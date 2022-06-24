@@ -1,0 +1,8 @@
+Package: egl-registry
+Version: 2021-11-23
+Architecture: x86-windows
+Multi-Arch: same
+Abi: ac3e0bdadadbbf3d1a218607a314b4b8dd94c0af10bdfdbf6a455207ed8d7a9b
+Description: the EGL API and Extension Registry
+Type: Port
+Status: install ok half-installed

@@ -1,0 +1,5 @@
+# ninja log v5
+1	717	6777230885157501	ShaderClient/CMakeFiles/CMakeProject1.dir/GUI.cpp.obj	935fa92ea60a3ce2
+1	537	6777231760584951	ShaderClient/CMakeFiles/CMakeProject1.dir/ShaderClient.cpp.obj	db247d9f1c460e9e
+537	1227	6777231762443879	ShaderClient/CMakeProject1.exe	2b4f0cb8fa7adb95
+6	941	6777230887526138	ShaderClient/CMakeFiles/CMakeProject1.dir/ShaderProgram.cpp.obj	b3d2af9db3454f5c
